@@ -1,8 +1,8 @@
-name = "v20251104"
+name = "shad2"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "KV"			#KV绑定名默认不可修改
-id = "shad2"				#KV数据库id
+binding = "KV"
+id = "178d0538c68c4d829a1846b0230f08d6"
